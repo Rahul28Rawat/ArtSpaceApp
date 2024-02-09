@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="p1_Akautsuki">Akautsuki</string>
+    <string name="p2_tobirama">Tobirama Senju</string>
+    <string name="p3_Sarada">Sarada</string>
+    <string name="p4_Himawari">Himawari</string>
+    <string name="p5_Itachi">Itachi Uchiha</string>
+    <string name="p6_Itachi2">Itachi</string>
+    <string name="p7_Jiraya">Jiraya</string>
+    <string name="p8_Kakashi">Kakashi</string>
+    <string name="p9_Leaf_HeadBand">Leaf HeadBand</string>
+    <string name="p10_Obito">Obito</string>
+    <string name="p11_Naruto">Naruto</string>
+    <string name="p12_Pain">Pain</string>
+    <string name="p13_Saitama">Saitama</string>
+    <string name="p14_Kokushibou">Kokushibou</string>
+    <string name="p15_Demon_Slayer">Demon Slayer</string>
+    <string name="p16_Zenitsu">Zenitsu</string>
+    <string name="p17_AOT">AOT</string>
+    <string name="By_kishimoto">By Kishimoto Sensai</string>
+    <string name="By_OPM">By One Punch Man</string>
+    <string name="By_DS">By Demon Slayer</string>
+    <string name="By_AOT">By Attack On Titan</string>
+    <string name="Album_Naruto">Naruto Franchise</string>
+    <string name="Album_OnePunchMan">One Punch Man Franchise</string>
+    <string name="Album_DemonSlayer">Demon Slayer Franchise</string>
+    <string name="Album_AOT">Attack on Titan Franchise</string>
+
+
+</resources>
